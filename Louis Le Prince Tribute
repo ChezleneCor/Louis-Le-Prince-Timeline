@@ -1,0 +1,45 @@
+<div class="container">
+  <div
+class="jumbotron">
+    <div class="row">
+      <div
+class="col-xs-12">
+        <h1 class="text-center">Louis Le Prince</h1>
+  <h2 class="text-center"><em>The father of the motion picture camera</em></h2>
+</div>
+<div id="img">
+  <figure class="text-center">
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Louisleprincerestored.png" alt="Louis Le Prince">
+      <figcaption>Louis Le Prince. Circa 1885. Courtesy of Armley Mills Industrial Museum</figcaption>
+  </figure>
+</div>
+    </div>
+  </div>
+  
+<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+  <h3>Here's a timeline of Louis Le Prince's Life:</h3>
+  <p>
+    <ul>
+      <li><b> 1841:</b> Born Louis Aimé Augustin Le Prince on  on Saint-Georges street in Metz, France, on August 28 </li>
+      <li><b> 1866:</b> Moved to Leeds, West Yorkshire, 
+        UK in  after he was invited by John Whitley</li>
+      <li><b> 1869:</b> Married Elizabeth Whitley, John's sister</li>
+      <li><b> 1871:</b> Started at  Leeds Technical School of Art with wife Elizabeth</li>
+      <li><b> 1881:</b> Moved to the United States as an agent for Whitley Partners and remaining in the country with his family.</li>
+      <li><b> 1887:</b> Returned to Leeds with his family in May.</li>
+      <li><b> 1888:</b> Built, then patented the single lens camera. Shot the scene that would later become known as the "Roundhay Garden Scene," the world's first motion picture, in October.</li>
+      <li><b> 1889-1890:</b> Attempted to create a projector.</li>
+      <li><b> 1890:</b> Before his journey back to the United States to finally show off his work, Le Prince took a pit stop in France to visit friends and family. Le Prince was declared missing when he did not board his train to Paris and no corpse, nor luggage was found.</li></ul>
+  
+  </p>
+</div>
+<blockquote>
+  <p>"Le Prince had indeed succeeded making pictures move at least seven years before the Lumière brothers and Thomas Edison, and so suggests a re-writing of the history of early cinema."</p>
+<footer><cite> -Richard Howells</cite></footer></blockquote>
+
+<footer class="text-center">
+  <hr>
+  <h3>If you have time, you should read more about this incredible human being on his <a href="https://en.wikipedia.org/wiki/Louis_Le_Prince"> Wikipedia entry</a>.</h3></footer>
+</div>
+</div>
+</div>
